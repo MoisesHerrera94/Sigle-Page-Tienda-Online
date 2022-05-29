@@ -1,0 +1,40 @@
+body {
+	background: #edeff2;
+	color: #fff;
+}
+
+.row {
+	margin-bottom: 20px;
+}
+
+p {
+	margin-bottom: 0;
+}
+
+header {
+	background: #232532;
+	margin-top: 20px;
+	padding: 20px;
+}
+
+article {
+	background: #fff;
+	color: #000;
+}
+
+aside {
+	background: green;
+	padding: 20px;
+	text-align: center;
+}
+
+.widgets .widget {
+	background: blue;
+	padding: 20px;
+	text-align: center;
+}
+
+footer {
+	background: #232532;
+	padding: 20px;
+}
